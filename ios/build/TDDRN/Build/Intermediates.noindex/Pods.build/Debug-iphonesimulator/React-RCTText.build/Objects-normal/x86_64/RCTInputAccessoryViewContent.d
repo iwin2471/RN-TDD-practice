@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.m \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/iwin247/Desktop/atwork/RN-TDD-practice/TDDRN/ios/Pods/Headers/Private/yoga/YGMacros.h
